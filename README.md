@@ -1,1 +1,1 @@
-# -luSMIRal-method-of-vector-diagrams-w
+# method-of-vector-diagrams-w
