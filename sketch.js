@@ -36,6 +36,7 @@ function draw() {
   line(0, 0, 0, y);
   fill(100, 100);
   arc(0, 0, a/2, a/2, 0, -angle1);
+  line(0, y, x2, y);
   pop();
 
   push();
